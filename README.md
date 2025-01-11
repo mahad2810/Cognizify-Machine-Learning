@@ -80,9 +80,9 @@ This submission includes three machine learning tasks focused on the restaurant 
 ---
 
 ## Files Included
-1. **Task1.ipynb:** Code for building and evaluating the regression model.
-2. **Task2.ipynb:** Code for visualizing and analyzing geographical data.
-3. **Task3.ipynb:** Code for the recommendation system.
+1. **task1.ipynb:** Code for building and evaluating the regression model.
+2. **task2.ipynb:** Code for visualizing and analyzing geographical data.
+3. **task3.ipynb:** Code for the recommendation system.
 4. **Dataset.csv:** The dataset used for all tasks.
 5. **summary_insights.csv:** Summary insights from Task 2.
 
